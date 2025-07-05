@@ -48,7 +48,7 @@ export default function Portfolio() {
             <div className="space-y-1 text-gray-700 leading-relaxed max-w-lg">
               <p>An aspiring software engineer and enthusiastic learner.</p>
               <p>I am passionate about technology and its potential to create value.</p>
-              <p>Currently working on [insert project]</p>
+              <p>Currently doing an internship at </p><p><a href="https://mascitra.com/">MASCITRA.COM</a></p>              
             </div>
           </div>
 
