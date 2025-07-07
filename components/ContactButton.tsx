@@ -7,7 +7,7 @@ export function ContactButton() {
     <Button
       variant="secondary"
       size="lg"
-      className="bg-gray-300 hover:bg-gray-400 text-gray-900 px-8 py-3 rounded-full"
+      className="px-8 py-3 text-gray-900 bg-gray-300 rounded-full hover:bg-gray-400"
       onClick={() => window.location.href = 'mailto:akbardafandi@gmail.com'}
     >
       Contact Me
