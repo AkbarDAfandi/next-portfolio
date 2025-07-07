@@ -32,7 +32,7 @@ export default function Portfolio() {
           <div className="flex justify-start">
             <div className="flex justify-center items-center w-24 h-24 bg-gray-300 rounded-full shadow-md">
               <Image
-                src="/img/profile-pic.png"
+                src="https://qbuilki0udhtacvb.public.blob.vercel-storage.com/P1010522%20%281%29-5voGDP3vSdj9aMLgED1ooo4bhtGw2H.png"
                 alt="Profile picture"
                 width={96}
                 height={96}
