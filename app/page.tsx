@@ -61,7 +61,7 @@ export default function Portfolio() {
           {/* Projects section */}
           <div className="space-y-3 text-left">
             <h2 className="text-xl font-semibold text-gray-900">Projects i've worked on</h2>
-            <p className="text-gray-700"><a href="https://github.com/AkbarDAfandi/libtrackphp" className="text-gray-900 underline hover:no-underline">LibTrack</a> • <a href="https://jurnalistik.smkn1lmj.sch.id/bts-smk/" className="text-gray-900 underline hover:no-underline">Yearbook</a> • <a href="https://github.com/AkbarDAfandi/CloudyNotes" className="text-gray-900 underline hover:no-underline">CloudyNotes</a></p>
+            <p className="text-gray-700"><a href="https://github.com/AkbarDAfandi/libtrackphp" className="text-gray-900 underline hover:no-underline">LibTrack</a> • <a href="https://jurnalistik.smkn1lmj.sch.id/bts-smk/" className="text-gray-900 underline hover:no-underline">Yearbook</a> • <a href="https://github.com/AkbarDAfandi/CloudyNotes" className="text-gray-900 underline hover:no-underline">CloudyNotes</a> • <a href="https://github.com/AkbarDAfandi/crud_sekolah" className="text-gray-900 underline hover:no-underline">school_management</a> • <a className="text-gray-900">and other project on my github</a></p>
           </div>
 
           {/* Contact button */}
