@@ -43,12 +43,18 @@ export default function Portfolio() {
 
           {/* Introduction */}
           <div className="space-y-4 text-left">
-            <h1 className="text-3xl font-bold text-gray-900 md:text-4xl">Hi, I'm Akbar.</h1>
+          	<h1 className="text-3xl font-bold text-gray-900 md:text-4xl">
+              Hi, I'm <span className="text-blue-600">Muhammad Akbar Dwi Afandi</span>.
+           </h1>
 
-            <div className="space-y-1 max-w-lg leading-relaxed text-gray-700">
-              <p>An aspiring software engineer and enthusiastic learner.</p>
-              <p>I am passionate about technology and its potential to create value.</p>
-              <p>Currently doing an internship at <a href="https://mascitra.com/" className="text-gray-900 underline hover:no-underline">MASCITRA.COM</a></p>              
+            <div className="space-y-2 max-w-2xl leading-relaxed text-gray-700">
+            <p className="text-2xl">
+              Backend Developer & Student at <a href="https://smkn1lmj.sch.id/" className="text-black underline hover:no-underline">SMK Negeri 1 Lumajang</a>.
+            </p>
+            <p>
+              I build scalable apps with <a href="https://laravel.com/" className="text-black underline hover:no-underline">PHP</a> & <a href="https://laravel.com/" className="text-black underline hover:no-underline">Laravel</a>.
+              Previously interned at <a href="https://mascitra.com/" className="text-black underline hover:no-underline">MASCITRA.COM</a>, <br></br>where I optimized database architectures for local government projects.
+            </p>
             </div>
           </div>
 
